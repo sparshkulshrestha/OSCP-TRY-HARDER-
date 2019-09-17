@@ -80,5 +80,4 @@ https://www.abatchy.com/2017/03/how-to-prepare-for-pwkoscp-noob <br>
 https://thor-sec.com/review/oscp/oscp_review/
 
 <h2>HTB</h2>
-
-
+![HACK THE BOX]("htb.jpeg")
