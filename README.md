@@ -74,6 +74,7 @@ https://0xdarkvortex.dev/index.php/2018/04/17/31-days-of-oscp-experience/ <br>
 http://0xc0ffee.io/blog/OSCP-Goldmine <br>
 https://scund00r.com/all/oscp/2018/02/25/passing-oscp.html <br>
 https://kindredsec.com/2019/06/19/oscp-blog-first-week-thoughts/ <br>
+https://www.yogendra-swaroop.tech/oscp-101-the-hard-way/ <br>
 https://medium.com/@yashitmaheshwary/my-experience-with-oscp-certification-e87b82013d87 <br>
 https://niiconsulting.com/checkmate/2017/06/a-detail-guide-on-oscp-preparation-from-newbie-to-oscp/ <br>
 https://www.abatchy.com/2017/03/how-to-prepare-for-pwkoscp-noob <br>
